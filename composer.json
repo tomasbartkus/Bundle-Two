@@ -1,0 +1,12 @@
+{
+  "name": "tbh24/bundle-two",
+  "description": "Bundle two",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "author's name",
+      "email": "email@example.com"
+    }
+  ]
+}
